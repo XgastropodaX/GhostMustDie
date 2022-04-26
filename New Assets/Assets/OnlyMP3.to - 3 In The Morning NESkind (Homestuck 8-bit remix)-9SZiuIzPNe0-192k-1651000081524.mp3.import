@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/OnlyMP3.to - 3 In The Morning NESkind (Homestuck 8-bit remix)-9SZiuIzPNe0-192k-1651000081524.mp3-e559419a61882980a84598f2f87b0add.mp3str"
+
+[deps]
+
+source_file="res://New Assets/Assets/OnlyMP3.to - 3 In The Morning NESkind (Homestuck 8-bit remix)-9SZiuIzPNe0-192k-1651000081524.mp3"
+dest_files=[ "res://.import/OnlyMP3.to - 3 In The Morning NESkind (Homestuck 8-bit remix)-9SZiuIzPNe0-192k-1651000081524.mp3-e559419a61882980a84598f2f87b0add.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
