@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/broom.mp3-9a862d55001642786e41e37f8828bedd.mp3str"
+
+[deps]
+
+source_file="res://broom.mp3"
+dest_files=[ "res://.import/broom.mp3-9a862d55001642786e41e37f8828bedd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
